@@ -80,6 +80,12 @@
     </url>
   
     <url>
+      <loc>https://studioha.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://studioha.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -92,9 +98,9 @@
     </url>
   
     <url>
-      <loc>https://studioha.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <loc>https://studioha.netlify.app/admin/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
     <url>
@@ -107,12 +113,6 @@
       <loc>https://studioha.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://studioha.netlify.app/admin/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
     </url>
   
 </urlset>
