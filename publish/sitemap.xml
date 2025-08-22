@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://studioha.netlify.app/lenco-floral</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://studioha.netlify.app/e-maria-brand</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -23,6 +17,12 @@
       <loc>https://studioha.netlify.app/lencos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://studioha.netlify.app/lenco-floral</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -50,13 +50,13 @@
     </url>
   
     <url>
-      <loc>https://studioha.netlify.app/pages/privacidade</loc>
+      <loc>https://studioha.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://studioha.netlify.app/pages/sobre-nos</loc>
+      <loc>https://studioha.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
