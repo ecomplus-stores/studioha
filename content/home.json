@@ -25,7 +25,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-campanha-4.png"
+          "img": "/img/uploads/banner-campanha-4.png",
+          "mobile_img": "/img/uploads/banner-campanha-4.png"
         }
       ]
     },
