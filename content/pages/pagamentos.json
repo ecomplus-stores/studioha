@@ -2,5 +2,11 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "\n\n\n\nCartão de crédito\n\nPix\n\nBoleto bancário",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
