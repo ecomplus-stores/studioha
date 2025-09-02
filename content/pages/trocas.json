@@ -2,5 +2,11 @@
   "title": "Trocas e devoluções",
   "meta_title": "Trocas e devoluções",
   "meta_description": "Trocas e devoluções",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Vocé poderá realizar a 1ª troca grátis pelo site em até 30 dias corridos úteis após a compra efetuada, trocando por pelo mesmo produto ou similares ao valor que pagou.\n\nPara devoluções 7 dias corridos após o recebimento do produto o crédito ficará a disposição para o cliente usar para compras futuras.\n\nDevoluções e desistência de compra em até 7 dias corridos haverá cancelamento do pagamento e devolução do crédito por meio que foi utilizado para realizar a compra.",
+  "sections": [
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
