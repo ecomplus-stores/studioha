@@ -1,6 +1,12 @@
 {
   "title": "Contato",
-  "meta_title": "Contato",
+  "meta_title": "Email:",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "contato@emariabrand.com.br",
+  "sections": [
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
