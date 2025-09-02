@@ -1,7 +1,7 @@
 {
   "domain": "emariabrand.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#f5f5f5",
+  "primary_color": "#201717",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/img_1746.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#e7f1e7",
+  "secondary_color": "#90b99f",
   "icon": "/img/uploads/img_1746.jpg",
   "store_id": 51621,
   "description": "E.MARIA",
