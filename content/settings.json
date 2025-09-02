@@ -1,22 +1,25 @@
 {
-  "store_id": 51621,
-  "name": "studioha",
   "domain": "studioha.netlify.app",
-  "short_name": "studioha",
-  "description": "studioha.",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f5f5f5",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#f5f5f5",
+  "logo": "/img/uploads/img_1746.jpg",
+  "name": "studioha",
+  "short_name": "E.MARIA",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "font_family": "Source Sans Pro",
+  "favicon": "/img/uploads/img_1746.jpg",
+  "icons_font": "_",
+  "country_code": "BR",
+  "secondary_color": "#cce6cc",
+  "icon": "/img/uploads/img_1746.jpg",
+  "store_id": 51621,
+  "description": "E.MARIA",
+  "large_icon": "/img/uploads/img_1746.jpg"
 }
