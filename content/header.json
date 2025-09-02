@@ -1,8 +1,11 @@
 {
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/lencos?ACESSÓRIOS",
+      "/bolsas?BOLSAS"
+    ],
+    "random": 0,
+    "full_width": true
   },
   "menu_all_departments": false,
   "centralized_logo": false,
@@ -10,7 +13,7 @@
     "text": "Novidade chegando...",
     "link": ""
   },
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": false,
