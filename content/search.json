@@ -3,6 +3,16 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 5,
+      "page": 1,
+      "collection_ids": [
+        "68a7c955578b5f795490531d:categories:BOLSAS:/bolsas"
+      ],
+      "autoplay": 5
     }
   ]
 }
