@@ -33,12 +33,12 @@
     {
       "autoplay": 5,
       "page": 1,
-      "title": "",
+      "title": "Mais sofisticação na hora de compor seu look!",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "limit": 5,
-      "collection_id": "68a7c99d578b5f795490532f:brands:E MARIA BRAND:/e-maria-brand",
+      "collection_id": null,
       "sort": "slug"
     },
     {
