@@ -34,7 +34,7 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "limit": 5,
+      "limit": 8,
       "collection_id": null,
       "sort": "news"
     },
