@@ -36,7 +36,7 @@
       "type": "collection-shelf",
       "limit": 5,
       "collection_id": null,
-      "sort": "slug"
+      "sort": "news"
     },
     {
       "type": "info-bar",
