@@ -1,11 +1,11 @@
 {
   "categories_list": {
     "featured": [
-      "/lencos?ACESSÓRIOS",
+      "/acessorios?ACESSÓRIOS",
       "/bolsas?BOLSAS",
       "/lencos?LENÇOS"
     ],
-    "random": 4,
+    "random": 3,
     "full_width": true
   },
   "menu_all_departments": false,
